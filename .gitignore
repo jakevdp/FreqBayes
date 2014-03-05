@@ -34,3 +34,10 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+
+
+# Emacs
+*~
+
+# ipython
+.ipynb_checkpoints
